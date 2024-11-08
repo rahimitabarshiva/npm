@@ -1,6 +1,6 @@
 # npm
 **I've coded npm website.**
-final view](https://github.com/user-attachments/assets/6a21cdec-7c7b-4e84-aacc-6c5a80454d82))
+![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
 
 
 
