@@ -1,6 +1,7 @@
 # npm
 **I've coded npm website.**
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+
+![final view](https://github.com/user-attachments/assets/39f8c4df-67c5-4ede-941b-43e969501db4)
 
 
 
